@@ -393,8 +393,7 @@ color: #404bbf;}
   padding: 100px 0;
 }
 footer .container{display: flex;
-  align-items: baseline;
-  margin-right: 120px}
+  align-items: baseline;}
 
 footer .logo {
   display: inline-block;
@@ -487,7 +486,6 @@ footer .medien-icons-link:focus {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 16px;
-  margin-right: 24px;
 }
 
 .button-footer {
@@ -505,7 +503,7 @@ footer .medien-icons-link:focus {
   background: #4d5ae5;
   min-width: 165px;
   gap: 16px;
-  padding: 8px 24px;
+  height: 40px;
 }
 
 .footer-svg {
